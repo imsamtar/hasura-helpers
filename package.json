@@ -1,0 +1,27 @@
+{
+  "name": "hasura-helpers",
+  "version": "0.0.0-0",
+  "description": "Helper functions for hasura",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsamtar/hasura-helpers.git"
+  },
+  "keywords": [
+    "hasura",
+    "helper",
+    "functions"
+  ],
+  "author": "SAMEER TARIQ <imsamtar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsamtar/hasura-helpers/issues"
+  },
+  "homepage": "https://github.com/imsamtar/hasura-helpers#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
